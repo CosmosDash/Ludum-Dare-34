@@ -1,15 +1,23 @@
 ﻿using UnityEngine;
+using UnityEngine.UI;
 using System.Collections;
 
-public class Menu : MonoBehaviour {
+public class Menu : MonoBehaviour 
+{
+	public Canvas MainCanvas;
 
-	// Use this for initialization
-	void Start () {
-	
+	public void LoadGame()
+	{
+		Application.LoadLevel (3);
 	}
-	
-	// Update is called once per frame
-	void Update () {
-	
+
+	public void LoadFr()
+	{
+		Application.LoadLevel(4);
+	}
+
+	public void LoadTwitter()
+	{
+		Application.OpenURL ("http://twitter.com/cosmosdash");
 	}
 }
