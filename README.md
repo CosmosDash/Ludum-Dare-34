@@ -7,7 +7,7 @@ _______________________________________________________
 
 Links : </br> 
 Composition - Here </br> 
-Itch.io - Here</br<
+Itch.io - Here</br>
 Trello - https://trello.com/b/4JtveoWG/ludumdare34
 
 _______________________________________________________
