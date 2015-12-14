@@ -5,9 +5,9 @@ The Delivery Bot [Not Final]
 
 _______________________________________________________
 
-Links : 
-Composition - Here
-Itch.io - Here
+Links : </br> 
+Composition - Here </br> 
+Itch.io - Here</br<
 Trello - https://trello.com/b/4JtveoWG/ludumdare34
 
 _______________________________________________________
@@ -16,7 +16,7 @@ DESCRIPTION HERE
 
 _______________________________________________________
 
-Updates :
+Updates :</br>
 
 V. 0.1 [14.DEC.15] - More assets, working menus, splash, intro, parts of a french version, a few scripts.
 
